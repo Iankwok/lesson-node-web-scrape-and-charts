@@ -6,7 +6,7 @@
   "author": "",
   "dependencies": {
     "body-parser": "^1.13.3",
-    "cheerio": "latest",
+    "cheerio": "^0.19.0",
     "ejs": "^2.3.1",
     "express": "^4.13.3",
     "express-ejs-layouts": "^2.0.0",
@@ -14,6 +14,6 @@
     "method-override": "^2.3.0",
     "mongoose": "^4.1.2",
     "morgan": "^1.6.1",
-    "yakuza": "latest"
+    "yakuza": "^1.0.7"
   }
 }
